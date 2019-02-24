@@ -1,0 +1,14 @@
+body {
+  background-color: #3f5300;
+  font-family: "Courier New", Courier, monospace;
+}
+a {
+  color: #3716a0;
+}
+#grid-container {
+  background-color: #efffbc;
+  display: grid;
+}
+#heading {
+  text-align: center;
+}
